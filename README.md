@@ -8,6 +8,7 @@ JustDrag is an intelligent and lightweight assistant app for Windows desktop. Si
 4. Instantly get an AI response
 
 ★★★Important Notice for First-Time Users★★★
+
 Right-click on the floating circle, select the corresponding LLM, and log in to the chat window
 
 [Key Features]
@@ -28,6 +29,7 @@ ________________________________________________________
 4. 立刻获取 AI 响应
 
 ★★★首次使用特别注意★★★
+
 请先在浮游圆圈鼠标右键，选择对应LLM并登录对话窗口
 
 【拖吧特点】
@@ -48,6 +50,7 @@ JustDrag（ドラッグバー）は、Windows デスクトップ上で動作す�
 4. AI からの応答を即時に取得
 
 ★★★初めてご利用の方へ特に注意★★★
+
 フローティングサークルで右クリックし、対応するLLMを選択してダイアログウィンドウにログインしてください
 
 【JustDrag の特徴】
