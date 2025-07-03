@@ -10,6 +10,10 @@ JustDrag is an intelligent and lightweight assistant app for Windows desktop. Si
 ★★★Important Notice for First-Time Users★★★
 
 Right-click on the floating circle, select the corresponding LLM, and log in to the chat window
+ 1. Launch the program and right-click on the floating button
+ 2. Select a large language model
+ 3. Log in to the large language model
+ 4. Start your journey of usage
 
 [Key Features]
 * Ready to use instantly, no setup required
@@ -31,6 +35,10 @@ ________________________________________________________
 ★★★首次使用特别注意★★★
 
 请先在浮游圆圈鼠标右键，选择对应LLM并登录对话窗口
+ 1. 启动程序，浮动按钮上鼠标右键
+ 2. 选择大语言模型
+ 3.  登录大语言模型
+ 4.  开启使用之路
 
 【拖吧特点】
 * 无需配置，即开即用
@@ -52,7 +60,11 @@ JustDrag（ドラッグバー）は、Windows デスクトップ上で動作す�
 ★★★初めてご利用の方へ特に注意★★★
 
 フローティングサークルで右クリックし、対応するLLMを選択してダイアログウィンドウにログインしてください
-
+ 1. プログラムを起動し、浮動ボタンを右クリック
+ 2. 大規模言語モデルを選択
+ 3. 大規模言語モデルにログイン
+ 4. 利用の旅を始める'
+    
 【JustDrag の特徴】
 * 設定不要、すぐに使える
 * 多様な LLM に対応
