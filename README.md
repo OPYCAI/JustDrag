@@ -33,6 +33,11 @@ ________________________________________________________
 
 拖吧（JustDrag）是一款运行于 Windows 桌面的智能助手应用。你只需选中文字并拖拽到浮动按钮上，它便能自动调用大语言模型（如 DeepSeek、ChatGPT、Gemini 等），完成翻译、摘要、纪要等操作。
 
+Download:
+
+* JustDrag 64位 : https://github.com/OPYCAI/JustDrag/releases/download/v1.0.0/JustDrag_v1.0_x64_Release.zip
+* JustDrag 32位 : https://github.com/OPYCAI/JustDrag/releases/download/v1.0.0/JustDrag_v1.0_x86_Release.zip
+  
 【操作步骤】
 1. 选中你想处理的文字
 2. 拖拽到桌面上的浮动按钮
@@ -58,6 +63,10 @@ ________________________________________________________
 
 JustDrag（ドラッグバー）は、Windows デスクトップ上で動作するスマートアシスタントアプリです。テキストを選択して、浮遊ボタンにドラッグするだけで、DeepSeek、ChatGPT や Gemini などの大規模言語モデルを呼び出して、翻訳、要約、議事録作成などを自動で行います。
 
+Download:
+
+* JustDrag 64位 : https://github.com/OPYCAI/JustDrag/releases/download/v1.0.0/JustDrag_v1.0_x64_Release.zip
+* JustDrag 32位 : https://github.com/OPYCAI/JustDrag/releases/download/v1.0.0/JustDrag_v1.0_x86_Release.zip
 【操作手順】
 1. 処理したいテキストを選択する
 2. デスクトップ上の浮遊ボタンにドラッグする
