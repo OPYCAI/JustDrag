@@ -1,6 +1,10 @@
 # JustDrag
 JustDrag is an intelligent and lightweight assistant app for Windows desktop. Simply select any text and drag it onto the floating button — JustDrag will automatically invoke large language models (LLMs) such as ChatGPT, Gemini, and DeepSeek to perform tasks like summarization, abstraction, meeting notes generation, and translation.
 
+Download:
+
+* JustDrag X64 : https://github.com/OPYCAI/JustDrag/releases/download/v1.0.0/JustDrag_v1.0_x64_Release.zip
+* JustDrag X86 : https://github.com/OPYCAI/JustDrag/releases/download/v1.0.0/JustDrag_v1.0_x86_Release.zip
 
 ![演示图](https://i.imgur.com/82ofnlM.png?raw=true)
 
